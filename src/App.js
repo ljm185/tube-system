@@ -20,6 +20,8 @@ function App() {
         </a>
       </header>
       <p>The Tube System</p>
+
+      <p>Transport items from one place to another through the magic of tubes!</p>
     </div>
   );
 }
