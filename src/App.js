@@ -19,9 +19,9 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <p>The Tube System!!</p>
+      <p>The Tube System!</p>
 
-      <p>Transport items from one place to another through the magic of tubes!!</p>
+      <p>Transport items from one place to another through the magic of tubes!</p>
     </div>
   );
 }
